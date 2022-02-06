@@ -10,7 +10,7 @@ In my free time, I choose to either read about current events in the world, enjo
 
 Connecting with peers and working on a project together is a major goal of mine, even if it's something small, I would love to experience dynamic teamwork in Game Development.
 
-Reach out anytime professionally via email -> jerichogamestudios@gmail.com
+Reach out anytime professionally via email  -> jerichogamestudios@gmail.com
 <!---
 GameplayIsMe/GameplayIsMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
